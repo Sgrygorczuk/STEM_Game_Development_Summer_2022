@@ -92,4 +92,6 @@ Week long session of game development where the students would ask for help debu
 
 ## Resulting Games ##
 
-[Student Games](https://www.youtube.com/watch?v=hKuMUzm6Fak)
+[Student Games Zip](https://drive.google.com/drive/folders/1twpBfi1pfCWFJC32pamEERI80iE-62Ce?usp=sharing)
+[Student Games Clipshow](https://www.youtube.com/watch?v=hKuMUzm6Fak)
+
